@@ -1,2 +1,4 @@
 # NN-IM-project
-feet 
+https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification  { Dataset link } \
+
+
